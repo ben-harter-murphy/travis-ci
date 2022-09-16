@@ -12,3 +12,5 @@ https://docs.travis-ci.com/user/tutorial/
 setup your travisci yml file accordingly so that every time you push it will test your code, you do need a test suite though for travis to run.
 
 happy coding!
+
+YOU NEED TO BE AN ADMIN FOR THE REPO TO ADD TRAVIS TO IT ON EITHER PUBLIC GITHUB OR ENTERPRISE GITHUB
