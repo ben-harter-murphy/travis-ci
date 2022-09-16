@@ -6,3 +6,4 @@ script:
   - echo 'Installing Dependecies'
   - npm install
   - echo 'Running tests'
+  - echo '************This is where your mocha should run will be using jest instead*************'
